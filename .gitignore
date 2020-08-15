@@ -1,0 +1,9 @@
+/node_modules
+
+.env
+
+.netlify
+
+*.css.map
+.eslintrc.json
+netlify.toml
